@@ -1,0 +1,130 @@
+.header{
+    background-color: rgb(44, 41, 41);
+    display: flex;
+    text-decoration: none;
+  }
+  
+  .header a.a1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    float: left;
+    font-size: 25px;
+  }
+  
+  .btn{
+    color: white;
+    background-color: rgba(71, 255, 77, 0.685);
+    padding: 12px;
+    margin: 10px;
+    border: none;
+    border-radius: 10%;
+    float: right;
+    position: relative;
+    margin-left: 1040px;
+    width: 89px;
+    height: 40px;
+  }
+  
+  .nav{
+    background-color: black;
+    float: center;
+    margin: 0px 0px;
+    display: flex;
+  }
+  
+  .nav a{
+    text-decoration: none;
+    padding: 30px 80px;
+    color: white;
+    margin: 0px 44.2px;
+  
+  }
+  
+  .nav img{
+    padding: 20px 100px;
+  }
+  
+  .main{
+    text-align: center;
+    background-image: url(https://html.iwthemes.com/studio-landing-2020/no-arrows/images/home-studio.jpg);
+    background-position: 50%;
+    top:349px;
+  }
+  
+  .img1 {
+    border-radius: 50%;
+  }
+  
+  .homepg{
+    font-size:5em;
+    margin: 0px;
+    color: rgb(0, 0, 0);   
+  }
+  
+  .homepg1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+  }
+  
+  .works{
+    text-align: left;
+    background-color: yellow;
+    margin: 0;
+  }
+  
+  .works1{  
+    font-size: 3em;
+    color: rgb(0, 0, 0);
+    padding-left: 90px;
+  }
+  
+  .about{
+    text-align: left;
+    background-image: url(https://html.iwthemes.com/studio-landing-2020/no-arrows/images/about-studio.jpg);   
+    background-size: 100%;
+    margin: 0;
+  }
+  
+  .about1{
+    flex-direction: column;
+    display: inline-block;
+    margin: 70px 0px;
+    padding-left: 250px;
+    justify-content: center;
+    background-color: transparent;
+  }
+  
+  .about2{
+    font-size: 3em;
+    color: white;
+    padding-left: 70px;
+  }
+  
+  .namedetail{
+    padding-left: 80px;
+  }
+  .link4about{
+    padding-left: 80px;
+  }
+  
+  .img1{
+    width: 300px;
+  }
+  
+  .contact{
+    text-align: center;
+    background-color: yellow;
+  }
+  
+  .contact1{
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+  }
+  
+  .footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+  }
